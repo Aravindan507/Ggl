@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21040" started-at="2021-05-03T16:36:40Z" finished-at="2021-05-03T16:37:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21040" started-at="2021-05-03T16:36:40Z" finished-at="2021-05-03T16:37:01Z">
+      <class name="Pra.GoogleHomeTest">
+        <test-method status="PASS" signature="getHomePage()[pri:0, instance:Pra.GoogleHomeTest@8b96fde]" name="getHomePage" duration-ms="21017" started-at="2021-05-03T22:06:40Z" finished-at="2021-05-03T22:07:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHomePage -->
+      </class> <!-- Pra.GoogleHomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
